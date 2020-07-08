@@ -1,3 +1,9 @@
+'''
+Basic Alarm Clock
+
+by Chandan Agrawal
+
+'''
 import time
 import datetime
 print ("Current time : " + datetime.datetime.today().strftime("%H") + " : " + datetime.datetime.today().strftime("%M"))
